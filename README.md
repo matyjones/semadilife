@@ -11,7 +11,7 @@ In-app journal to track your progress
 Daily reminders to help you stay on track
 Privacy Policy
 
-Our app is committed to protecting your privacy. You can find our privacy policy here[Privacy Policy](privacy.html).
+Our app is committed to protecting your privacy. You can find our privacy policy [here](privacy.html).
 
 Installation
 
