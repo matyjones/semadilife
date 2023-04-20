@@ -13,7 +13,7 @@ Features
 
 Privacy Policy
 
-Our app is committed to protecting your privacy. You can find our privacy policy [here](privacy.html).
+Our app is committed to protecting your privacy. You can find our privacy policy [HERE](privacy.html).
 
 Installation
 
