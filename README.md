@@ -25,4 +25,4 @@ We would love to hear your feedback and suggestions on how we can improve Semadi
 
 License
 
-This app is licensed under the MIT License. See the <a href="./license.html">LICENCSE</a> file for details.
+This app is licensed under the MIT License. See the <a href="./license.html">LICENSE</a> file for details.
