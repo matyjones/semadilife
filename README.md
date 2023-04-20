@@ -5,10 +5,15 @@ Semadi Life is a mobile application that uses artificial intelligence to help us
 Features
 
 AI interpretation of your tracker data to identify stress-creating habits and help you problem-solve your way to better health
+
 Personalized mental health assessments
+
 Customized recommendations based on assessment results
+
 Access to a variety of mental health resources and tools
+
 In-app journal to track your progress
+
 Daily reminders to help you stay on track
 
 Privacy Policy
